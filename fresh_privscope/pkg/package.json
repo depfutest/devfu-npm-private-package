@@ -1,6 +1,6 @@
 {
-  "name": "@privscope/priv-package",
-  "version": "1.0.2",
+  "name": "@fresh_privscope/pkg",
+  "version": "1.0.0",
   "description": "private pkg",
   "main": "index.js",
   "repository": "https://github.com/depfutest/devfu-npm-private-registry",
